@@ -1,1 +1,1 @@
-alert('shit works');
+<script>alert('shit works');</script>
